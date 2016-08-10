@@ -5,5 +5,5 @@
 
 2、执行 react-native start 启动本地服务器
 
-3、重新开一个终端，进入到文件路径后，执行 react-native run-android 
+3、重新开一个终端，进入到文件路径后，执行 react-native run-android 或者react-native run-ios
 
